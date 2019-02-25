@@ -23,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="53" column="30" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="30" />
+            <state relative-caret-position="438">
+              <caret line="60" column="34" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/css/default.css">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="46" selection-start-column="46" selection-end-column="46" />
+              <caret column="90" selection-start-column="90" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -60,6 +60,7 @@
       <list>
         <option value="$PROJECT_DIR$/README" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/default.css" />
       </list>
     </option>
   </component>
@@ -176,7 +177,7 @@
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.24891305" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21717452" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.106925204" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -211,15 +212,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="53" column="30" selection-start-line="53" selection-start-column="21" selection-end-line="53" selection-end-column="30" />
+        <state relative-caret-position="438">
+          <caret line="60" column="34" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/default.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="46" selection-start-column="46" selection-end-column="46" />
+          <caret column="90" selection-start-column="90" selection-end-column="90" />
         </state>
       </provider>
     </entry>
